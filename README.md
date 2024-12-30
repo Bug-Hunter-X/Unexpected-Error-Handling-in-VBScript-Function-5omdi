@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript related to error handling. The `bug.vbs` file shows a function that raises a custom error if a parameter is empty.  However, this error handling might not be sufficient in all scenarios. The `bugSolution.vbs` file provides improved error handling and demonstrates best practices.
